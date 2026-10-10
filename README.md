@@ -61,10 +61,10 @@ Follow these steps to run the project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/react-movie-app.git
+git clone https://github.com/Patel-Het06/react-movie-app.git
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
+Replace `Patel-Het06` with your GitHub username.
 
 ### 2. Navigate to the project directory
 
